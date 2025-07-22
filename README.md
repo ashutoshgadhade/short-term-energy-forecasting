@@ -17,7 +17,7 @@ To design and implement a forecasting pipeline capable of predicting short-term 
 ├── dashboard.py                         # Script for building a monitoring dashboard
 ├── Results/                             # Contains model predictions, graphs, and evaluation reports
 ├── Peak_shaving.ipynb                   # Peak shaving application notebook
-├── Regressor_Final.ipynb                # Final ML regressors implementation
+├── Regressor_Final.ipynb                # Surrogate modelling for Post-hoc explainations (XAI)
 ├── ...
 ```
 
